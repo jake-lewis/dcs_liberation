@@ -1,0 +1,30 @@
+description:  # From wikipedia
+  The Dassault Mirage F1 is a French fighter and attack aircraft designed and manufactured
+  by Dassault Aviation. It was developed as a successor to the popular Mirage III family.
+
+  Export version of the Mirage F1C for Spain, with local designation C.14A. 45 purchased in three batches,
+  delivered between 1975 and 1981.
+introduced: 1975
+manufacturer: Dassault
+origin: France
+price: 14
+role: Fighter
+max_range: 200
+variants:
+  Mirage-F1CE: {}
+
+  #Mirage-F1BD: {}
+  #Mirage-F1BQ: {}
+  #Mirage-F1C: {}
+  #Mirage-F1CG: {}
+  #Mirage-F1CH: {}
+  #Mirage-F1CJ: {}
+  #Mirage-F1CK: {}
+  #Mirage-F1CR: {}
+  #Mirage-F1CZ: {}
+  #Mirage-F1DDA: {}
+  #Mirage-F1ED: {}
+  #Mirage-F1EDA: {}
+  #Mirage-F1EH: {}
+  #Mirage-F1EQ: {}
+  #Mirage-F1JA: {}
